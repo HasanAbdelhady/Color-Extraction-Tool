@@ -1,0 +1,9 @@
+Flask
+Pillow
+scikit-image
+numpy
+matplotlib
+opencv-python-headless
+validators
+requests
+scikit-learn
